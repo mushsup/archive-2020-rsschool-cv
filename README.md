@@ -1,1 +1,1 @@
-https://mushsup.github.io/rsschool-cv/cv
+https://mushsup.github.io/archive-2020-rsschool-cv/cv
